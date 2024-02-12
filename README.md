@@ -1,9 +1,7 @@
 # TaskBird
 Organization web app
 
-Created by Felix Song
-
-Contributions: Abby Fedor, Alexis Obu, Yvonne Lopez Davila
+Contributors: Abby Fedor, Alexis Obu, Yvonne Lopez Davila, Felix Song
 
 
 This web app is intended to offer an effecient and accessible way to organize the user's day to day activities while also keeping in mind the overall
